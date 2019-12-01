@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulario Android</string>
+
+    <string name="text_title_personal_info">Dados Pessoais</string>
+
+    <string name="validation_error_not_empty">Este campo deve ser preenchido</string>
+    <string name="validation_error_email">Email inválido</string>
+    <string name="validation_error_phone">Telefone inválido</string>
+    <string name="validation_error_password">Informe letras, números e símbolos</string>
+
+</resources>
